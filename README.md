@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Javascript,reactjs,python and UI/UX.
 - 💞️ I’m looking to collaborate on frontend and UI/UX.
 - 📫 How to reach me 📧- dasparomita283@gmail.com
+- 📈 My Dashboards-https://public.tableau.com/app/profile/paromita.das/vizzes
 
 <!---
 Paromita2002/Paromita2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
